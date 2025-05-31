@@ -21,9 +21,12 @@ Try it online here: [Cricket Game Live](https://ishani-yadav.github.io/Cricket-G
 
 2. Open `cricketGame.html` in your browser to start playing.
 
+
 ## Screenshots
 
-![Game Screenshot]
+![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## Technologies Used
 
@@ -35,6 +38,12 @@ Try it online here: [Cricket Game Live](https://ishani-yadav.github.io/Cricket-G
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
+📬 Contact
 
-This project is licensed under the MIT License.
+If you liked this project or want to collaborate, feel free to connect:
+GitHub: @Ishani-yadav
+LinkedIn: ishani-yadav-7448is
+
+
+I’m always open to feedback, suggestions, and exciting new opportunities!
+
