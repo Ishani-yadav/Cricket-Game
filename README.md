@@ -24,8 +24,8 @@ Try it online here: [Cricket Game Live](https://ishani-yadav.github.io/Cricket-G
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)  
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://raw.githubusercontent.com/Ishani-yadav/Cricket-Game/main/screenshots/screenshot1.png)  
+![Screenshot 2](https://raw.githubusercontent.com/Ishani-yadav/Cricket-Game/main/screenshots/screenshot2.png)
 
 
 ## Technologies Used
