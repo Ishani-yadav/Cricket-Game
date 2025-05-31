@@ -41,7 +41,9 @@ Contributions are welcome! Please open an issue or submit a pull request.
 📬 Contact
 
 If you liked this project or want to collaborate, feel free to connect:
+
 GitHub: @Ishani-yadav
+
 LinkedIn: ishani-yadav-7448is
 
 
